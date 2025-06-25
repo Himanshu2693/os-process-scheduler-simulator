@@ -46,9 +46,13 @@ OS Process Scheduler Simulator/
 Each line = `ArrivalTime BurstTime Priority`
 
 0 5 2
+
 1 3 1
+
 2 8 3
+
 3 6 2
+
 
 
 ## 🧪 Build & Run (Windows)
