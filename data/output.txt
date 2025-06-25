@@ -1,0 +1,4 @@
+P1: Waiting = 0, Turnaround = 5
+P2: Waiting = 4, Turnaround = 7
+P3: Waiting = 6, Turnaround = 14
+P4: Waiting = 13, Turnaround = 19
